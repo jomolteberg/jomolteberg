@@ -28,7 +28,7 @@ Dedicated
 - Socializing
 
 ### Contact
-LinkedIn: John Oscar Molteberg
-Email: johnoscarm@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/john-oscar-molteberg-637177180/)
+- Email: johnoscarm@gmail.com
 
 Thank you for visiting my profile!
