@@ -1,28 +1,23 @@
 ### Hi there 👋
 
-John Oscar Molteberg
-About Me
-Name: John Oscar Molteberg
-Age: 29
-Location: Norway
-Status: Married
-Occupation: Front-End Developer
-Education: Master's Degree in Clinical Psychology (ELTE University, Budapest, 2019)
-Currently enrolled: Front-End Development Course, Noroff School of Technology and Digital Media (Expected completion: June 2024)
-Core Competencies & Values
-Fast Learner
-Trustworthy
-Punctual
-Loyal
-Highly Motivated
-Positive
-Dedicated
+My name is John Oscar Molteberg. I'm a 29-year-old Front-End Developer based in Norway, where I live with my lovely wife. Currently, I am enrolled in a Front-End Development Course at Noroff School of Technology and Digital Media, with an expected completion date in June 2024. Prior to venturing into front-end development, I obtained my Master's Degree in Clinical Psychology from ELTE University in Budapest in 2019.
+
+### Core Competencies & Values
+- Fast Learner
+- Trustworthy
+- Punctual
+- Loyal
+- Highly Motivated
+- Positive
+- Dedicated
+
 ### Technical Skills
 - HTML
 - CSS
 - JavaScript
 - WordPress
 - Figma
+
 ### Hobbies
 - Gaming
 - Socializing
@@ -30,5 +25,3 @@ Dedicated
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/john-oscar-molteberg-637177180/)
 - Email: johnoscarm@gmail.com
-
-Thank you for visiting my profile!
