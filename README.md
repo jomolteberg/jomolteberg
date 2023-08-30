@@ -16,6 +16,8 @@ My name is John Oscar Molteberg. I'm a 29-year-old Front-End Developer based in 
 - JavaScript
 - WordPress
 - Figma
+- Python
+- SQL
 
 ### Hobbies
 - Gaming
